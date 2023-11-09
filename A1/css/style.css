@@ -213,6 +213,9 @@ img {
     line-height: 100px;
     margin: 0 auto;
 }
+#contents .link a:hover {
+    background-color: rgba(250, 131, 13, 0.748);
+}
 
 /* footer */
 #footer {
