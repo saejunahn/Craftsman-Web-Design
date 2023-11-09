@@ -21,7 +21,7 @@ window.onload = function (){
     },3000);
 
     //메뉴
-    let navList = document.querySelector(".nav > ul > li");
+    let navList = document.querySelector(".nav > ul");
 
     // 자바스크립용 CSS로 변경
     let submenus = document.querySelectorAll("#header .nav > ul > li > ul");
