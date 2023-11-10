@@ -1,1 +1,1 @@
-window.onload = document
+window.onload = function (){};

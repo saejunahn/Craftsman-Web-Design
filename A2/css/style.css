@@ -8,8 +8,51 @@
 
 a {
     text-decoration: none;
+    color: #333;
 }
 
 li {
     list-style: none;
 }
+
+img {
+    vertical-align: top;
+    width: 100%;
+}
+
+/* wrap */
+#wrap {
+    width: 1200px;
+    height: 700px;
+    margin: 0 auto;
+    background-color: #c3c3c3;
+}
+
+/* header */
+#header {
+    width: 100%;
+    height: 100px;
+    background-color: #dedede;
+}
+
+/* slider */
+#slider {
+    width: 100%;
+    height: 300px;
+    background-color: #727272;
+}
+
+/* contents */
+#contents {
+    width: 100%;
+    width: 200px;
+    background-color: #a8a8a8;
+}
+
+/* footer */
+#footer {
+    width: 100%;
+    height: 100px;
+    background-color: #9e9e9e;
+}
+
