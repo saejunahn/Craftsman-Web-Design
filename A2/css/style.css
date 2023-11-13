@@ -192,7 +192,7 @@ img {
 #contents .banner {
     width: 400px;
     height: 200px;
-    background-image: url(/A2/images/banner.jpg);
+    background-image: url(../images/banner.jpg);
     padding: 20px;
     box-sizing: border-box;
     position: relative;
