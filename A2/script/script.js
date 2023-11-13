@@ -3,7 +3,7 @@ window.onload = function (){
     let navList = document.querySelector(".nav > ul");
 
     // 자바스크립트용 CSS 구현
-    let submenus = document.querySelectorAll("#header .nav > ul > li > ul")
+    let submenus = document.querySelectorAll("#header .nav > ul > li > ul");
 
     submenus.forEach(function (submenu){
         submenu.style.display = "block";
