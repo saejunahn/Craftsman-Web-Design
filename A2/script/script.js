@@ -45,7 +45,7 @@ window.onload = function (){
                 sliderWrap.style.transition = "0s"; //애니메이션 정지
                 sliderWrap.style.marginLeft = "0"; // 이미지 위치 초기화
                 currentIndex = 0; //현재 이미지 초기화
-            }, 700);
+            }, 600);
         }
     },3000);
 
