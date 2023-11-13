@@ -197,7 +197,7 @@ img {
 #contents .link {
     width: 400px;
     height: 200px;
-    background-image: url(/A4/images/link.jpg);
+    background-image: url(../images/link.jpg);
     background-size: cover;
     padding: 20px;
     box-sizing: border-box;
