@@ -178,7 +178,7 @@ img {
 #contents .banner {
     width: 400px;
     height: 200px;
-    background-image: url(/A3/images/banner.jpg);
+    background-image: url(../images/banner.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -203,7 +203,7 @@ img {
 #contents .link {
     width: 400px;
     height: 200px;
-    background-image: url(/A3/images/link.jpg);
+    background-image: url(../images/link.jpg);
 } 
 #contents .link h3 {
     color: #fff;
