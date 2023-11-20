@@ -4,7 +4,7 @@ window.onload = function (){
     const sliderWarp = document.querySelector(".sliderWrap"); //전체 이미지
     const slider = document.querySelectorAll(".slider"); //각각의 이미지
     const sliderClone = sliderWarp.firstElementChild.cloneNode(true); //  첫번째 이미지를 저장
-    sliderWarp.append(sliderClone);
+    sliderWarp.appendChild(sliderClone);
 
     setInterval(()=> { //3초에 한번씩 실행
         currentIndex++; //현재 이미지 1씩 증가
